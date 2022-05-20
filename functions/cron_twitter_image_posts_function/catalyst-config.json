@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "cron_twitter_image_posts_function",
+		"stack": "node14",
+		"type": "cron"
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}

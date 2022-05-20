@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "targets": [
+      "cron_twitter_image_posts_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  }
+}
